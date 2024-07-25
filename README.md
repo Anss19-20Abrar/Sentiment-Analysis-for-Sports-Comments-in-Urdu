@@ -29,13 +29,6 @@ To get a local copy of the repository and set it up for development, follow thes
     cd Sentiment-Analysis-for-Sports-Comments-in-Urdu
     ```
 
-3. **Install Dependencies**
-    Ensure you have Python 3.x installed. You can install the necessary Python packages using:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-
 ## Results
 
 The models are evaluated using a confusion matrix, which provides insights into the classification performance. The matrix helps visualize the true positives, false positives, true negatives, and false negatives for each model.
